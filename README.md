@@ -17,13 +17,17 @@ On the other hand, tasks have a title, description, status.
 
 # USERS
 - Creating accounts and managing them.
+
 # TASKS
 - Title
 - Description
 - Status
 
-- Endpoints allow creating, reading, updating 
-and deleting both users and tasks.
+# ENDPOINTS (CRUD Operations)
+- Creating
+- Reading
+- Updating
+- Deleting 
 
 # COURSE ALIGNMENT
 - This project aligns basically with the objectives 
